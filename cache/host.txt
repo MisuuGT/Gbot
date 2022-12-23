@@ -1,0 +1,4 @@
+40.81.29.119 growtopia1.com
+40.81.29.119 growtopia2.com
+40.81.29.119 www.growtopia1.com
+40.81.29.119 www.growtopia2.com
